@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/echovl/changeset-test/issues"
   },
-  "homepage": "https://github.com/echovl/changeset-test#readme"
+  "homepage": "https://github.com/echovl/changeset-test#readme",
+  "dependencies": {
+    "@changesets/cli": "^2.22.0"
+  }
 }
