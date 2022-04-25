@@ -1,1 +1,3 @@
-console.log("Hello changesets!");
+const message = "Hello changesets";
+
+console.log(message);
