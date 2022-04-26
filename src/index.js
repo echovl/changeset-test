@@ -1,4 +1,3 @@
-const message = "Hello changesets";
+const message = "Super new message";
 
 console.log(message);
-console.log("Hi there!");
