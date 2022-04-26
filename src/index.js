@@ -3,3 +3,7 @@ function start() {
 
   console.log(message);
 }
+
+function notifyPeers() {
+  console.log("Notifying peers...");
+}
