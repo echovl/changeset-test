@@ -5,7 +5,7 @@ function start() {
 }
 
 function getMessage() {
-  return "Some new mssage";
+  return "Some new message";
 }
 
 function notifyPeers() {
