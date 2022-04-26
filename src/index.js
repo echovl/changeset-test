@@ -6,4 +6,5 @@ function start() {
 
 function notifyPeers() {
   console.log("Notifying peers...");
+  console.log("Done !");
 }
