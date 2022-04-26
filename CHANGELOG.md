@@ -1,5 +1,11 @@
 # changeset-test
 
+## 0.5.0
+
+### Minor Changes
+
+- 74982c0: Added peer notification
+
 ## 0.4.0
 
 ### Minor Changes
