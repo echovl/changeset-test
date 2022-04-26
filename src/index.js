@@ -5,7 +5,7 @@ function start() {
 }
 
 function getMessage() {
-  return "Super hard key";
+  return "Some new mssage";
 }
 
 function notifyPeers() {
