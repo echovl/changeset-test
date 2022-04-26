@@ -1,5 +1,11 @@
 # changeset-test
 
+## 1.0.0
+
+### Major Changes
+
+- 2177790: Added getMessage
+
 ## 0.5.0
 
 ### Minor Changes
