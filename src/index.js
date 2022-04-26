@@ -1,3 +1,5 @@
-const message = "Super new message";
+function start() {
+  const message = "Super new message";
 
-console.log(message);
+  console.log(message);
+}
