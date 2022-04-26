@@ -10,5 +10,6 @@ function getMessage() {
 
 function notifyPeers() {
   console.log("Notifying peers...");
+  console.log("Linking peers");
   console.log("Done !");
 }
