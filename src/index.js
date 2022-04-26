@@ -1,7 +1,11 @@
 function start() {
-  const message = "Super new message";
+  const message = getMessage();
 
   console.log(message);
+}
+
+function getMessage() {
+  return "Super hard key";
 }
 
 function notifyPeers() {
