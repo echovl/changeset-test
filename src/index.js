@@ -5,7 +5,7 @@ function start() {
 }
 
 function getMessage() {
-  return "Some new message";
+  return "This message has color!";
 }
 
 function notifyPeers() {
